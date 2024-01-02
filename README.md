@@ -44,12 +44,7 @@
 ###   5.	Wait until the nozzle & bed plate comes into the required temperature.
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
-
-## Output:
-
-
-
-### Name: VISHNU .KM
+### Name: VISHNU .K M 
 ### Register Number:23000132
 
 ## RESULT:
