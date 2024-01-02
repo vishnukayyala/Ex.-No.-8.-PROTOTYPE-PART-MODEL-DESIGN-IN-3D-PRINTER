@@ -44,8 +44,10 @@
 ###   5.	Wait until the nozzle & bed plate comes into the required temperature.
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
-### Name: VISHNU .K M 
-### Register Number:23000132
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
+
+### Name: VISHNU .K M 
+### Register Number:23000132
+
