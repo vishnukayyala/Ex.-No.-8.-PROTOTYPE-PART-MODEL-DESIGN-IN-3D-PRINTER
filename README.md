@@ -46,9 +46,16 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![WhatsApp Image 2024-01-02 at 09 34 08_b011e757](https://github.com/vishnukayyala/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151489368/8593392f-8238-47b4-a741-b32526733245)
+![WhatsApp Image 2024-01-02 at 09 40 45_8672d06e](https://github.com/vishnukayyala/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151489368/e8a2d72e-c5ed-4440-b453-ad3973c75edd)
+![WhatsApp Image 2024-01-02 at 09 41 50_7c74cc39](https://github.com/vishnukayyala/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151489368/fe7193e2-183a-4e9b-8a5c-fff6d1fc3571)
+![WhatsApp Image 2024-01-02 at 09 41 50_10582e26](https://github.com/vishnukayyala/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151489368/bf21d22a-7593-4aff-8b4c-b7a2cabc97ea)
+![WhatsApp Image 2024-01-02 at 09 45 36_84eb9f51](https://github.com/vishnukayyala/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151489368/4ed6ef37-6f08-4ce5-a2da-f240815ec33b)
+![WhatsApp Image 2024-01-02 at 09 47 07_a3269403](https://github.com/vishnukayyala/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151489368/814c805e-c044-4b8e-9e05-c03be25224f1)
 
-### Name:
-### Register Number:
+
+### Name: VISHNU .KM
+### Register Number:23000132
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
